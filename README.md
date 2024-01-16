@@ -13,7 +13,7 @@
 <b>Hello World!</b> Here's a few things about me:
 <ul>
 <li>I am/was a <b>Software Engineer</b>, more specifically, a full-stack engineer and I have worked in the travel, transportation and logistics space as an SDE for <b>3+ years</b>.</li> 
-<li>In 2022, I decided to embrace the data revolution and embark on a transition from <b>Full-Stack Development</b> to <b>Data Science</b></li> 
+<li>In 2022, I decided to embrace the data revolution and embark on a transition from <b>Full-Stack Development</b> to <b>Data Science</b>.</li> 
 <li>Since then I have completed my <b>Master's in Data Science (Computer Science Data Informatics)</b> at the <b>University of Manchester</b>.</li> 
 <li>I am very keen on projects that deepen my knowledge of <b>robust data pipelines, statistics & probability, classical machine learning & deep learning algorithms</b>.</li>
 </ul> 
