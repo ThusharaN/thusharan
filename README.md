@@ -8,16 +8,18 @@
   [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/thn97/)
 </div>
 
-
+<div>
 <img align="right" width="250" src="https://github.com/ThusharaN/thusharan/assets/85170859/1396dc11-c838-4432-bc5e-834a2f36eb44" alt="ThusharaTN">
 <b>Hello World!</b> Here's a few things about me:
 <ul>
-<li>I am/was a <b>Software Engineer</b>, more specifically, a full-stack engineer and I have worked in the travel, transportation and logistics space as an SDE for <b>3+ years</b>.</li> 
+<li>I am/was a <b>Software Engineer</b>, more specifically, a full-stack engineer and I have worked in the travel, transportation and logistics (TTL) space as an SDE for <b>3+ years</b>.</li> 
 <li>In 2022, I decided to embrace the data revolution and embark on a transition from <b>Full-Stack Development</b> to <b>Data Science</b>.</li> 
-<li>Since then I have completed my <b>Master's in Data Science (Computer Science Data Informatics)</b> at the <b>University of Manchester</b>.</li> 
-<li>I am very keen on projects that deepen my knowledge of <b>robust data pipelines, statistics & probability, classical machine learning & deep learning algorithms</b>.</li>
+<li>I have since been awarded the <b>Chevening Scholarship</b> from the Foreign, Commonwealth & Development Office, Gov. of UK, for my post-graduation which aided in the completion of a <b>Master's Degree in Data Science</b> (Computer Science Data Informatics) from the University of Manchester.</li> 
+<li>As of today, I have embraced the role of a <b>Data Scientist</b> in the TTL space, primarily working with LLMs. </li>
+<li>I am always keen on projects that deepen my knowledge of <b>robust data pipelines, statistics & probability, classical machine learning & deep learning algorithms</b>.</li>
 </ul> 
 Keen to contribute more and learn more!
+</div>
 
 <h3 align="center"> </h3>
 <p align="center">
